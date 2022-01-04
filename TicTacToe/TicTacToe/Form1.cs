@@ -365,32 +365,7 @@ namespace TicTacToe
                 }
 
             }
-            /*
-            int celkemX = 0;
-            int celkemO = 0;
-
-            for (int y = 0; y < 10; y++)
-            {
-
-                for (int j = 0; j < 10; j++)
-                {
-
-                    if (pole[y, j] == "X")
-                    {
-                        celkemX += 1;
-                          
-
-                        }
-                    else if (pole[y, j] == "O")
-                    {
-                        celkemO += 1;
-                    }
-
-
-                }
-
-            }
-           */
+         
 
             if (rInt == 1)            
         {             
